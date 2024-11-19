@@ -5,11 +5,11 @@ Aplicație de management al sarcinilor dezvoltată în Laravel, implementând fu
 
 ## Functionalități 🚀
 
-✅ Gestionare completă a sarcinilor (CRUD)
-📝 Sistem de comentarii pentru fiecare sarcină
-🏷️ Categorii și etichete pentru organizare
-🔄 Tranzacții pentru operațiuni complexe
-💫 Interfață modernă și responsivă
+- ✅ Gestionare completă a sarcinilor (CRUD)
+- 📝 Sistem de comentarii pentru fiecare sarcină
+- 🏷️ Categorii și etichete pentru organizare
+- 🔄 Tranzacții pentru operațiuni complexe
+- 💫 Interfață modernă și responsivă
 
 ## Tehnologii Utilizate 💻
 
@@ -57,6 +57,6 @@ Aplicație de management al sarcinilor dezvoltată în Laravel, implementând fu
 
 ### Relații
 
-Task -> Category: Many-to-One
-Task -> Tags: Many-to-Many
-Task -> Comments: One-to-Many
+- Task -> Category: Many-to-One
+- Task -> Tags: Many-to-Many
+- Task -> Comments: One-to-Many
