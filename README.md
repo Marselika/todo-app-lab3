@@ -60,3 +60,29 @@ Aplicație de management al sarcinilor dezvoltată în Laravel, implementând fu
 - Task -> Category: Many-to-One
 - Task -> Tags: Many-to-Many
 - Task -> Comments: One-to-Many
+
+## Migrații și baze de date 📊
+
+### Migrațiile sunt un sistem de versionare pentru baza de date, permițând:
+- Modificarea și urmărirea schimbărilor în schema bazei de date
+- Sincronizarea schemei între mediile de dezvoltare
+- Automatizarea procesului de creare a bazei de date
+
+## Fabrici și Seedere 🌱
+### Facilitează dezvoltarea și testarea prin:
+- Generarea automată de date de test realiste
+- Popularea rapidă a bazei de date pentru dezvoltare
+- Asigurarea consistenței datelor pentru testare
+
+## ORM și Modele 🔗
+### Laravel utilizează Eloquent ORM (Active Record) oferind:
+- Abstractizare peste baza de date
+- Relații elegante între modele
+- Protecție împotriva SQL injection
+- Cod mai curat și ușor de întreținut
+
+## Tranzacții 🔒
+### Implementate pentru operațiuni complexe, asigurând:
+- Atomicitate în operațiuni multiple
+- Consistența datelor
+- Rollback automat în caz de eroare
